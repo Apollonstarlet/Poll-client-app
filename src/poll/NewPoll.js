@@ -7,6 +7,8 @@ const Option = Select.Option;
 const FormItem = Form.Item;
 const { TextArea } = Input
 
+
+// NewPoll Component
 class NewPoll extends Component {
     constructor(props) {
         super(props);

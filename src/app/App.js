@@ -76,6 +76,7 @@ class App extends Component {
     });
   }
 
+  // Login function
   handleLogin() {
     notification.success({
       message: 'Polling App',
